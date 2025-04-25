@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://rehmall.github.io/rehmallapps/wallpapers/wall1.jpg",
+    "type": "free",
+    "tags": ["nature", "portrait"],
+    "size": "1080x1920"
+  },
+  {
+    "url": "https://rehmall.github.io/rehmallapps/wallpapers/wall2.jpg",
+    "type": "pro",
+    "tags": ["dark", "amazing"],
+    "size": "1440x2560"
+  }
+]
