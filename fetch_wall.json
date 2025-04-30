@@ -4,26 +4,30 @@
     "title": "Mountains",
     "url": "https://apps.rehmall.com/rehmallapps/wallpapers/wall2.jpg",
     "category": "Nature",
-    "popular": "true"
+    "popular": "true",
+    "pro": "false"
   },
   {
     "id": "3",
     "title": "Bmw M4 CS",
     "url": "https://apps.rehmall.com/rehmallapps/wallpapers/bmwm4cs.jpg",
     "category": "Cars",
-    "popular": "true"
+    "popular": "true",
+    "pro": "true"
   },
   {
     "id": "3",
     "title": "Beach",
     "url": "https://apps.rehmall.com/rehmallapps/wallpapers/wall4.jpg",
     "category": "Nature",
-    "popular": "true"
+    "popular": "true",
+    "pro": "false"
   },
   {
     "id": "4",
     "title": "Forest",
     "url": "https://apps.rehmall.com/rehmallapps/wallpapers/wall5.jpg",
-    "category": "Nature"
+    "category": "Nature",
+    "pro": "false"
   }
 ]
