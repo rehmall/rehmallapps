@@ -3,13 +3,15 @@
     "id": "2",
     "title": "Mountains",
     "url": "https://apps.rehmall.com/rehmallapps/wallpapers/wall2.jpg",
-    "category": "Nature"
+    "category": "Nature",
+    "type": "Popular"
   },
   {
     "id": "3",
     "title": "Bmw M4 CS",
     "url": "https://apps.rehmall.com/rehmallapps/wallpapers/bmwm4cs.jpg",
-    "category": "Cars"
+    "category": "Cars",
+    "type": "Popular"
   },
   {
     "id": "3",
