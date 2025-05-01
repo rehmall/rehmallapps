@@ -28,6 +28,7 @@
     "title": "Drawing",
     "url": "https://apps.rehmall.com/rehmallapps/wallpapers/asthetic_1.jpg",
     "category": "Asthetic",
+    "popular": "true",
     "pro": "true"
   },
   {
@@ -42,6 +43,68 @@
     "title": "Allah Name on Heart",
     "url": "https://apps.rehmall.com/rehmallapps/wallpapers/islamic_1.jpg",
     "category": "Islamic",
+    "popular": "true",
+    "pro": "false"
+  },
+  {
+    "id": "7",
+    "title": "Mercedes & Bmw Drift",
+    "url": "https://apps.rehmall.com/rehmallapps/wallpapers/bmw_mercedes_drift_1.jpg",
+    "category": "Cars",
+    "popular": "true",
+    "pro": "true"
+  },
+  {
+    "id": "8",
+    "title": "Pubg Neon",
+    "url": "https://apps.rehmall.com/rehmallapps/wallpapers/gaming_pubg1.jpg",
+    "category": "Gaming",
+    "pro": "false"
+  },
+  {
+    "id": "9",
+    "title": "Islamic",
+    "url": "https://apps.rehmall.com/rehmallapps/wallpapers/islamic_2.jpg",
+    "category": "Islamic",
+    "popular": "true",
+    "pro": "false"
+  },
+  {
+    "id": "10",
+    "title": "Mercedes CLS Neon Garage",
+    "url": "https://apps.rehmall.com/rehmallapps/wallpapers/mercedes_cls_noen_garage.jpg",
+    "category": "Cars",
+    "pro": "false"
+  },
+  {
+    "id": "11",
+    "title": "Mercedes S Class",
+    "url": "https://apps.rehmall.com/rehmallapps/wallpapers/mercedes_sclass_1.jpg",
+    "category": "Cars",
+    "pro": "false"
+  },
+  {
+    "id": "12",
+    "title": "Forest",
+    "url": "https://apps.rehmall.com/rehmallapps/wallpapers/nature_4.jpg",
+    "category": "Nature",
+    "popular": "true",
+    "pro": "true"
+  },
+  {
+    "id": "13",
+    "title": "Beautiful Rose",
+    "url": "https://apps.rehmall.com/rehmallapps/wallpapers/nature_flower1.jpg",
+    "category": "Nature",
+    "popular": "true",
+    "pro": "true"
+  },
+  {
+    "id": "14",
+    "title": "Beautiful Lake",
+    "url": "https://apps.rehmall.com/rehmallapps/wallpapers/nature_lake_1.jpg",
+    "category": "Nature",
+    "popular": "true",
     "pro": "false"
   }
 ]
