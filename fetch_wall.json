@@ -106,5 +106,77 @@
     "category": "Nature",
     "popular": "true",
     "pro": "false"
+  },
+   {
+    "id": "15",
+    "title": "Islamic Wallpaper",
+    "url": "https://apps.rehmall.com/rehmallapps/wallpapers/islamic245.jpg",
+    "category": "Islamic",
+    "popular": "true",
+    "pro": "false"
+  },
+   {
+    "id": "16",
+    "title": "Mosque",
+    "url": "https://apps.rehmall.com/rehmallapps/wallpapers/islamic2343.jpg",
+    "category": "Islamic",
+    "popular": "true",
+    "pro": "false"
+  },
+   {
+    "id": "17",
+    "title": "Mosque in Deserts",
+    "url": "https://apps.rehmall.com/rehmallapps/wallpapers/islamic232.jpg",
+    "category": "Islamic",
+    "popular": "true",
+    "pro": "false"
+  },
+   {
+    "id": "18",
+    "title": "Islamic Vibes",
+    "url": "https://apps.rehmall.com/rehmallapps/wallpapers/islamic234.jpg",
+    "category": "Islamic",
+    "popular": "false",
+    "pro": "false"
+  },
+   {
+    "id": "19",
+    "title": "Islamic Vibes",
+    "url": "https://apps.rehmall.com/rehmallapps/wallpapers/islamic134.jpg",
+    "category": "Islamic",
+    "popular": "false",
+    "pro": "false"
+  },
+   {
+    "id": "20",
+    "title": "Sward Man",
+    "url": "https://apps.rehmall.com/rehmallapps/wallpapers/gaming243.jpg",
+    "category": "Gaming",
+    "popular": "true",
+    "pro": "true"
+  },
+   {
+    "id": "21",
+    "title": "Robot World",
+    "url": "https://apps.rehmall.com/rehmallapps/wallpapers/gaming5765.jpg",
+    "category": "Gaming",
+    "popular": "true",
+    "pro": "false"
+  },
+   {
+    "id": "22",
+    "title": "Mercedes in Mansion",
+    "url": "https://apps.rehmall.com/rehmallapps/wallpapers/cars354.jpg",
+    "category": "Cars",
+    "popular": "true",
+    "pro": "false"
+  },
+   {
+    "id": "23",
+    "title": "Rolls Royce in Cyber City",
+    "url": "https://apps.rehmall.com/rehmallapps/wallpapers/cars375.jpg",
+    "category": "Cars",
+    "popular": "true",
+    "pro": "true"
   }
 ]
