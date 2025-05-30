@@ -7,5 +7,14 @@
     "preview-url": "https://apps.rehmall.com/rehmallapps/wallpapers/Beautiful_Lake_preview.jpg",
     "popular": "true",
     "pro": "false"
+  },
+  {
+    "id": "2",
+    "title": "Bmw M4 CS",
+    "url": "https://apps.rehmall.com/rehmallapps/wallpapers/bmwm4cs.jpg",
+    "preview-url": "https://apps.rehmall.com/rehmallapps/wallpapers/bmwm4cs_preview.jpg",
+    "category": "Cars",
+    "popular": "true",
+    "pro": "false"
   }
 ]
