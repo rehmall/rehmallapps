@@ -4,7 +4,7 @@
     "title": "Beautiful Lake",
     "url": "https://apps.rehmall.com/rehmallapps/wallpapers/Beautiful_Lake.jpg",
     "preview-url": "https://apps.rehmall.com/rehmallapps/wallpapers/Beautiful_Lake_preview.jpg",
-    "category": "Nature",
+    "category": ["Nature", "Aesthetic", "Cars"],
     "popular": "true",
     "pro": "true"
   },
